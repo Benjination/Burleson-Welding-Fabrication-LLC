@@ -1,0 +1,27 @@
+{
+  "name": "burlesonwelding",
+  "version": "1.0.0",
+  "description": "Professional welding and fabrication services website for Burleson Welding & Fabrication LLC",
+  "main": "dist/index.html",
+  "scripts": {
+  "build": "tsc",
+  "start": "npm run build && npx http-server dist",
+  "serve": "npx http-server dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjination/Burleson-Welding-Fabrication-LLC.git"
+  },
+  "keywords": ["welding", "fabrication", "pittsburgh", "metalwork", "industrial"],
+  "author": "David Burleson",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Benjination/Burleson-Welding-Fabrication-LLC/issues"
+  },
+  "homepage": "https://benjination.github.io/Burleson-Welding-Fabrication-LLC/",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "typescript": "^5.9.2"
+  }
+}

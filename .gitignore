@@ -1,0 +1,65 @@
+# Node modules
+node_modules/
+
+# Build output
+/dist/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+.swo
+
+# Misc
+*.tmp
+*.temp
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# PRIVATE/CONFIDENTIAL FILES
+# Business sensitive information
+info.txt
+cost-hours analysis
+*cost-hours*
+*billing*
+*invoice*
+*client-info*
+*private*
+
+# Financial documents
+*.xlsx
+*.xls
+*financial*
+*accounting*
+*payroll*
+
+# Personal notes and business documents
+notes.txt
+*notes*
+*todo*
+*personal*
+
+# Keep dist folder for GitHub Pages deployment
+!dist/
