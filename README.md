@@ -4,7 +4,7 @@ Professional welding and fabrication services in Pittsburgh, PA.
 
 ## About
 
-Family-owned welding business serving the Pittsburgh area since 2010. Specializing in custom fabrication, railings, fire escapes, and mobile welding services.
+Burleson Welding and Fabrication LLC is a well-established, locally owned business known for its custom metalwork, welding expertise, and friendly service in the Pittsburgh area. Family-owned welding business serving the Pittsburgh area since 2010. Specializing in custom fabrication, railings, fire escapes, and mobile welding services.
 
 ## Services
 
@@ -24,6 +24,8 @@ Family-owned welding business serving the Pittsburgh area since 2010. Specializi
 - **Phone**: (412) 512-1718
 - **Address**: 88 Linshaw Ave, Pittsburgh, PA 15205
 - **Owner**: David Burleson
+
+If you need more specifics (like licensing paperwork, insurance, or detailed project quotes), you should contact the business directly at the number above.
 
 ## Website
 
