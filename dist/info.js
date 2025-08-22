@@ -2,6 +2,7 @@
 export function renderInfo() {
     return `
     <div class="header">
+      <img src="images/Logo/Red Shirt.jpg" alt="Burleson Welding Logo" class="logo">
       <h1>Burleson Welding & Fabrication LLC</h1>
     </div>
     <div class="content">
@@ -59,11 +60,18 @@ export function renderInfo() {
         <h2>Recent Activity</h2>
         <p>Custom welding, signage, and mobile welding promoted via social media as recently as August 2025.</p>
         
-        <h2>Visual Project Examples</h2>
-        <ul>
-          <li>Project galleries on BuildZoom.</li>
-          <li>Instagram and other social platforms show custom welding and signage projects.</li>
-        </ul>
+        <h2>Project Gallery</h2>
+        <div class="gallery">
+          <img src="images/Gallery/Mantle.jpg" alt="Custom Mantle Work" onclick="openLightbox(0)">
+          <img src="images/Gallery/Monster Welder.jpg" alt="Professional Welding Equipment" onclick="openLightbox(1)">
+          <img src="images/Gallery/Ornate Railing.jpg" alt="Ornate Custom Railing" onclick="openLightbox(2)">
+          <img src="images/Gallery/Second-Floor Exterior Rail.jpg" alt="Second Floor Exterior Railing" onclick="openLightbox(3)">
+          <img src="images/Gallery/Short exterior rail.jpg" alt="Exterior Railing Installation" onclick="openLightbox(4)">
+          <img src="images/Gallery/Sports team chair.jpg" alt="Custom Sports Team Chair" onclick="openLightbox(5)">
+          <img src="images/Gallery/Staircase.jpg" alt="Custom Metal Staircase" onclick="openLightbox(6)">
+          <img src="images/Gallery/Star wars.jpg" alt="Custom Star Wars Themed Work" onclick="openLightbox(7)">
+          <img src="images/Gallery/Under Staircase.jpg" alt="Under Staircase Installation" onclick="openLightbox(8)">
+        </div>
       </div>
     </div>
     <div class="footer">

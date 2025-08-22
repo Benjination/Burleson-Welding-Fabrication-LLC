@@ -4,7 +4,7 @@
   "description": "Professional welding and fabrication services website for Burleson Welding & Fabrication LLC",
   "main": "dist/index.html",
   "scripts": {
-    "build": "tsc && cp src/style.css dist/",
+    "build": "tsc && cp src/style.css dist/ && cp -r images dist/",
     "start": "npm run build && npx http-server dist",
     "serve": "npx http-server dist"
   },
