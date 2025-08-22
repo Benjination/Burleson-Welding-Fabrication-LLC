@@ -31,11 +31,6 @@ jobs:
         
       - name: Build TypeScript
         run: npm run build
-        
-      - name: Copy static files to dist
-        run: |
-          cp src/index.html dist/
-          cp -r images dist/ || echo "No images folder found"
           
       - name: Setup Pages
         uses: actions/configure-pages@v4
